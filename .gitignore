@@ -1,0 +1,13 @@
+# .NET 编译输出
+bin/
+obj/
+
+# Rider / IDE
+.idea/
+*.sln.DotSettings.user
+*.user
+
+# TShock 测试文件
+*.sqlite
+*.log
+ServerLog.txt
